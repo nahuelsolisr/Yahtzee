@@ -1,0 +1,20 @@
+C:\POO\Proyecto Generala\Proyecto Generala\bin\Debug\Proyecto Generala.exe
+C:\POO\Proyecto Generala\Proyecto Generala\bin\Debug\Proyecto Generala.pdb
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto_Generala.Properties.Resources.resources
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.csproj.GenerateResource.Cache
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.exe
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.pdb
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.csprojResolveAssemblyReference.cache
+E:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.exe
+E:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.pdb
+E:\POO\Proyecto Generala\Proyecto Generala\bin\Debug\Proyecto Generala.exe
+E:\POO\Proyecto Generala\Proyecto Generala\bin\Debug\Proyecto Generala.pdb
+E:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.csprojResolveAssemblyReference.cache
+E:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto_Generala.Form1.resources
+E:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto_Generala.Properties.Resources.resources
+E:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.csproj.GenerateResource.Cache
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto_Generala.Juego.resources
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto_Generala.Jugadores.resources
+C:\POO\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto_Generala.Historial.resources
+E:\POO\Proyecto Generala\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.exe
+E:\POO\Proyecto Generala\Proyecto Generala\Proyecto Generala\obj\x86\Debug\Proyecto Generala.pdb
