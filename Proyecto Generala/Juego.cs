@@ -12,6 +12,8 @@ namespace Proyecto_Generala
     public partial class Juego : Form
     {
 
+
+//
         Random aleatorio = new Random();
         int vuelta = 0;
         bool mezclando = false;
