@@ -13,7 +13,7 @@ namespace Proyecto_Generala
     {
 
 
-//
+
         Random aleatorio = new Random();
         int vuelta = 0;
         bool mezclando = false;
